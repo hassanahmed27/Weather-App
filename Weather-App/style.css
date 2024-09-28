@@ -20,7 +20,7 @@ background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, F
 .container{
     width: 400px;
     height: min-content;
-    background-color: #fff;
+    background-color: white;
     border-radius: 12px;
     padding: 28px;
 }
