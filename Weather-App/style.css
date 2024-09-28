@@ -101,7 +101,9 @@ background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, F
     width: 100%;
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 39px;
+    gap: 60px;
+}
 }
 .humidity, .wind{
     display: flex;
