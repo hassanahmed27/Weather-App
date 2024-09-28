@@ -57,11 +57,20 @@ background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, F
     background-color: rgb(44, 132, 233);
 }
 .weather-body{
-    display: none;
+     display: none;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin-block:20px ;   
+    display: none;
+    margin: 2px;
+    padding: 41px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 14px;
+    background-color: white;
+    border-radius: 20px;
 }
 .weather-body img{
     width: 60%;
